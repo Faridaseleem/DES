@@ -1,4 +1,5 @@
 Data Encryption Standard (DES) Implementation in Python
+
 Overview
 This repository contains a Python implementation of the Data Encryption Standard (DES) algorithm. DES is a symmetric-key block cipher used for encrypting and decrypting data. This implementation includes the essential components of DES, such as initial and final permutations, key schedule generation, Feistel function, and S-Box substitution.
 
